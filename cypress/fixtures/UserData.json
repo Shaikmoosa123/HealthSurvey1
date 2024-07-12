@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Moosa",
+        "age": "18 or above", 
+        "exercise": "Yes"
+    },
+
+    {
+        "name": "Anil",
+        "age": "Under 18", 
+        "exercise": "No"
+    },
+
+    {
+        "name": "Kavya",
+        "age": "Under 18", 
+        "exercise": "Yes"
+    },
+
+    {
+        "name": "Renuka",
+        "age": "18 or above", 
+        "exercise": "No"
+    }
+
+]
