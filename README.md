@@ -22,7 +22,7 @@ This project contains a Cypress test to automate the submission of a Health Surv
 # Test Description
 
 - Navigate to the form: Opens the provided Google Form URL.
-- Enter your name: Fills in the "Your Name" field with "Moosa".
+- Enter your name: Fills in the "Your Name" field with "Moosa shaik".
 - Select your age: Chooses the appropriate age group.
 - Select "Yes or No" from the "Do you exercise every week?" dropdown: Answers the exercise frequency question.
 - Submit the form: Clicks the submit button.
